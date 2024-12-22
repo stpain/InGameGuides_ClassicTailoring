@@ -1,0 +1,14 @@
+## Interface: 11505
+## Author: TheBoringDad
+## Version: 0.1
+## Title: InGameGuides_ClassicTailoring
+## Notes: Classic Tailoring guide for IGG
+## SavedVariables: IGG_GLOBAL_CLASSIC_TAILORING
+## Dependencies: InGameGuides
+## LoadOnDemand: 1
+
+## X-IGG-Title: Classic Tailoring
+## X-IGG-Author:
+## X-IGG-Icon: 136249
+
+InGameGuides_ClassicTailoring.lua
