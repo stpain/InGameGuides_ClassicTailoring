@@ -1,6 +1,6 @@
 ## Interface: 11505
 ## Author: TheBoringDad
-## Version: 0.1
+## Version: 0.11
 ## Title: InGameGuides_ClassicTailoring
 ## Notes: Classic Tailoring guide for IGG
 ## SavedVariables: IGG_GLOBAL_CLASSIC_TAILORING
