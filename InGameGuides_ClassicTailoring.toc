@@ -7,6 +7,8 @@
 ## Dependencies: InGameGuides
 ## LoadOnDemand: 1
 
+## X-Curse-Project-ID: 1163903
+
 ## X-IGG-Title: Classic Tailoring
 ## X-IGG-Author:
 ## X-IGG-Icon: 136249
